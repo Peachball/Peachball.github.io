@@ -67,17 +67,14 @@
 					Play Again?
 				</button>
 
+			</div>
+		</div>
+		<div id='navigation-bar'/>
 <script>
 $('#restartButton').hide();
 $('#snakeCanvas').hide();
+$('#navigation-bar').load('/navigation.html');
 </script>
-			</div>
-		</div>
-<?php
-include(getcwd() . '/navigation.html');
-echo get_include_path();
-echo getcwd();
-?>
 </body>
 
 </html>
