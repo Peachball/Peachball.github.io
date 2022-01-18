@@ -1,4 +1,0 @@
-baseURL = 'https://Peachball.github.io/'
-languageCode = 'en-us'
-title = 'Blog'
-theme = "pixyll"

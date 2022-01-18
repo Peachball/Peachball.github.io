@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Blog on Blog </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://Peachball.github.io/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 17 Jan 2022 17:28:35 PST</updated>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://Peachball.github.io/post/01-first-post/</link>
+      <pubDate>Mon, 17 Jan 2022 17:28:35 PST</pubDate>
+      
+      <guid>https://Peachball.github.io/post/01-first-post/</guid>
+      <description>Test!</description>
+    </item>
+    
+  </channel>
+</rss>
+
